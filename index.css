@@ -1,2 +1,2 @@
 .header{display: block;}
-.footer{display: contents;}
+.footer{display:list-item}
